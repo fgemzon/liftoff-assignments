@@ -12,4 +12,4 @@ For this assignment you will need to upload your resume and provide links to you
 [LinkedIn Account](https://www.linkedin.com/in/fionna-gemzon-0627956b/)
 ### Resume
 [Copy of Resume](Gemzon-resume.pdf)
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
+
